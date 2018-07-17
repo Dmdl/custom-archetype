@@ -1,1 +1,0 @@
-**khcbp-microservice-template**
